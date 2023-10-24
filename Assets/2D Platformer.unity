@@ -793,19 +793,19 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1072025817183915072, guid: c38be8a7461829e48a10d1c76e3c534a, type: 3}
       propertyPath: m_Size.x
-      value: 11.168169
+      value: 10.0171175
       objectReference: {fileID: 0}
     - target: {fileID: 1072025817183915072, guid: c38be8a7461829e48a10d1c76e3c534a, type: 3}
       propertyPath: m_Size.y
-      value: 30.709991
+      value: 30.997997
       objectReference: {fileID: 0}
     - target: {fileID: 1072025817183915072, guid: c38be8a7461829e48a10d1c76e3c534a, type: 3}
       propertyPath: m_Offset.x
-      value: -0.53687
+      value: 0.038655758
       objectReference: {fileID: 0}
     - target: {fileID: 1072025817183915072, guid: c38be8a7461829e48a10d1c76e3c534a, type: 3}
       propertyPath: m_Offset.y
-      value: 0.6450043
+      value: 0.50100136
       objectReference: {fileID: 0}
     - target: {fileID: 1655388071415154992, guid: c38be8a7461829e48a10d1c76e3c534a, type: 3}
       propertyPath: JumpMaxHeight
