@@ -6,6 +6,7 @@ public class GoalPost : MonoBehaviour
 {
     public Sceneloader mySceneLoader = null;
     public string NextScene = "MainMenu";
+   
 
     private void OnCollisionEnter2D(Collision2D collision)
     {

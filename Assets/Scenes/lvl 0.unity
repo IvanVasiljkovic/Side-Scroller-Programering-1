@@ -270,7 +270,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff23c9750d3456c4aae899b02338dd3d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Savefile: {fileID: 0}
+  Savefile: {fileID: 11400000, guid: 2844351c365d3d441b6e2bf54faffcc6, type: 2}
 --- !u!1 &423001465
 GameObject:
   m_ObjectHideFlags: 0
@@ -1961,6 +1961,18 @@ PrefabInstance:
     - target: {fileID: 629172555647990146, guid: 5d76b59a27226754ab5242d5baffcf80, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1032065259613923637, guid: 5d76b59a27226754ab5242d5baffcf80, type: 3}
+      propertyPath: m_Color.b
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1032065259613923637, guid: 5d76b59a27226754ab5242d5baffcf80, type: 3}
+      propertyPath: m_Color.g
+      value: 0.5718156
+      objectReference: {fileID: 0}
+    - target: {fileID: 1032065259613923637, guid: 5d76b59a27226754ab5242d5baffcf80, type: 3}
+      propertyPath: m_Color.r
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4248508903365968551, guid: 5d76b59a27226754ab5242d5baffcf80, type: 3}
       propertyPath: m_Name
